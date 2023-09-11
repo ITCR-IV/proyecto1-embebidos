@@ -1,0 +1,3 @@
+[submodule "yocto"]
+	path = yocto
+	url = git@github.com:ITCR-IV/mickledore-branch.git
