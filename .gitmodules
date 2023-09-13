@@ -4,3 +4,6 @@
 [submodule "lib-gpio"]
 	path = lib-gpio
 	url = git@github.com:ITCR-IV/lib-gpio.git
+[submodule "servidor-casa"]
+	path = servidor-casa
+	url = git@github.com:ITCR-IV/servidor-casa.git
